@@ -1,4 +1,5 @@
 number = 10
+name = "Aaron"
 
 for i in number:
     print(i)
