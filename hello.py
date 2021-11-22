@@ -7,3 +7,5 @@ for i in number:
 print("The number is: " + number)
 
 print("Hey Git!")
+
+print("Pull!")
